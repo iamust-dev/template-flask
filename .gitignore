@@ -3,5 +3,6 @@
 /storage/*.key
 /vendor
 /dist
+
 .env
 .env.backup
