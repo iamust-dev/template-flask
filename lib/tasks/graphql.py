@@ -8,4 +8,4 @@ graphql_cli = AppGroup('graphql')
 @click.argument('query_string')
 def execute_query(query_string):
   result = schema.execute(query_string)
-  print(result.data)
+  click.echo(result.data)
