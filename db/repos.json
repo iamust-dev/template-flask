@@ -1,0 +1,62 @@
+[
+  {
+    "owner": { "login": "spoqa" },
+    "name": "python-oauth2",
+    "full_name": "spoqa/python-oauth2",
+    "description": "A fully tested, abstract interface to creating OAuth clients and servers."
+  },
+  {
+    "owner": { "login": "spoqa" },
+    "name": "facebook-python-sdk",
+    "full_name": "spoqa/facebook-python-sdk",
+    "description": "This SDK is deprecated.  It does not support the new cookie format that we rolled out as part of the OAuth Migration.  In short, it doesn't work. We currently have no plans to update it. Feel free to clone this repository and modify."
+  },
+  {
+    "owner": { "login": "spoqa" },
+    "name": "python-phonenumbers",
+    "full_name": "spoqa/python-phonenumbers",
+    "description": "Python port of Google's libphonenumber"
+  },
+  {
+    "owner": { "login": "spoqa" },
+    "name": "flask-babel",
+    "full_name": "spoqa/flask-babel",
+    "description": "i18n and l10n support for Flask based on Babel and pytz"
+  },
+  {
+    "owner": { "login": "spoqa" },
+    "name": "fixture",
+    "full_name": "spoqa/fixture",
+    "description": "Mirror/Fork of Fixture project from http://code.google.com/p/fixture/"
+  },
+  {
+    "owner": { "login": "pallets" },
+    "name": "flask",
+    "full_name": "pallets/flask",
+    "description": "The Python micro framework for building web applications."
+  },
+  {
+    "owner": { "login": "pallets" },
+    "name": "flask-sphinx-themes",
+    "full_name": "pallets/flask-sphinx-themes",
+    "description": "Sphinx themes for Pallets projects"
+  },
+  {
+    "owner": { "login": "pallets" },
+    "name": "markupsafe",
+    "full_name": "pallets/markupsafe",
+    "description": "Safely add untrusted strings to HTML/XML markup."
+  },
+  {
+    "owner": { "login": "pallets" },
+    "name": "jinja",
+    "full_name": "pallets/jinja",
+    "description": "A very fast and expressive template engine."
+  },
+  {
+    "owner": { "login": "pallets" },
+    "name": "werkzeug",
+    "full_name": "pallets/werkzeug",
+    "description": "The comprehensive WSGI web application library."
+  }
+]
